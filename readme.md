@@ -4,7 +4,7 @@
 ## Date : 20/11/2025
 
 ## Aperçu
-Ce devoir a pour objectif de documenter les concepts JavaScript essentiels utilisés dans les briefs.  
+Ce devoir a pour objectif de documenter les concepts JavaScript essentiels utilisés dans le projet de réservation **Space Odyssey**.  
 J'ai étudié les variables, les fonctions, la manipulation du DOM, les méthodes des tableaux, ainsi que les objets et JSON.  
 Ce travail m'a permis de mieux comprendre les bases de JavaScript et comment elles s'appliquent dan un site web réel.
 
